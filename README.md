@@ -23,8 +23,18 @@ Sistem 3 temel aşamalı bir karar mimarisiyle çalışır:
 - **places_cleaned.csv**: Gerçekçi mekan veri seti.
 - **requirements.txt**: Proje bağımlılık listesi.
 
-## 🛠️ Kurulum ve Çalıştırma
+## 🛠 Kurulum ve Çalıştırma
 
-1. Sanal ortamı aktifleştirin:
+### 1. Sanal Ortamı Oluşturun ve Aktifleştirin
 ```powershell
+# Sanal ortamı oluşturun
+python -m venv venv
+
+# Sanal ortamı aktifleştirin
 .\venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+# Konsol tabanlı test motorunu çalıştırmak için:
+python main.py
+
+# Streamlit interaktif web arayüzünü açmak için:
+streamlit run app.py
