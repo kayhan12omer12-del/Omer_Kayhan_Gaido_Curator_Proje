@@ -68,7 +68,7 @@ for _, r in df.iterrows():
         tooltip=r["ad"],
         icon=folium.Icon(color=kategori_renkleri.get(r["kategori"], "gray"), icon="info-sign")
     ).add_to(harita)
-harita.save("harita.html")
+harita.save(os.path.join(OUTPUT_DIR, "harita.html"))
 print("--> 3 adet EDA grafiği 'outputs/' dizinine ve 'harita.html' kaydedildi.")
 
 # ==========================================================
