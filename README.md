@@ -34,6 +34,8 @@ python -m venv venv
 ```powershell
 pip install -r requirements.txt
 ```
+### 3. Uygulamayı Başlatın
+```powershell
 # Konsol tabanlı test motorunu çalıştırmak için:
 python main.py
 
