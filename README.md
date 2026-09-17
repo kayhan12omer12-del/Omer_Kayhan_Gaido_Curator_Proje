@@ -30,10 +30,13 @@ Sistem 3 temel aşamalı bir karar mimarisiyle çalışır:
 python -m venv venv
 .\venv\Scripts\Activate.ps1
 ```
+### 2. Bağımlılıkları Yükleyin
+```powershell
 pip install -r requirements.txt
-
+```
 # Konsol tabanlı test motorunu çalıştırmak için:
 python main.py
 
 # Streamlit interaktif web arayüzünü açmak için:
 streamlit run app.py
+```
