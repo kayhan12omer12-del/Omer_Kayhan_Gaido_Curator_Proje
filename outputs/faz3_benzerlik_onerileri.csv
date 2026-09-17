@@ -1,0 +1,6 @@
+id,ad,sehir,kategori,fiyat_seviyesi,puan,etiketler,enlem,boylam,metadata,benzerlik,bilesik_skor
+190,Besiktas Coffee Co. (21),Istanbul,kafe,3,4.2,sessiz tatli kahve calisma,41.045789,29.007425,kafe sessiz tatli kahve calisma,1.0,0.952
+9,Minoa Books & Coffee,Istanbul,kafe,2,4.8,kitap sessiz calisma kahve,41.0425,29.004,kafe kitap sessiz calisma kahve,0.805,0.852
+93,Beyoglu Bakery & Coffee,Istanbul,kafe,3,4.8,calisma gurme kahve sessiz,41.028155,28.976315,kafe calisma gurme kahve sessiz,0.804,0.851
+65,Besiktas Espresso Bar,Istanbul,kafe,2,4.3,kahve romantik calisma sessiz,41.039544,29.008895,kafe kahve romantik calisma sessiz,0.794,0.814
+213,Karakoy Espresso Bar (19),Istanbul,kafe,2,4.6,romantik aile tatli calisma sessiz,41.024844,28.978194,kafe romantik aile tatli calisma sessiz,0.759,0.807

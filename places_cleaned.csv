@@ -1,0 +1,301 @@
+id,ad,sehir,kategori,fiyat_seviyesi,puan,etiketler,enlem,boylam
+1,Karabatak Karakoy,Istanbul,kafe,2,4.6,sessiz kahve tatli calisma,41.0258,28.9795
+2,Coffee Sapiens,Istanbul,kafe,2,4.7,kahve sessiz calisma nitelikli,41.0252,28.9782
+3,Mandabatmaz,Istanbul,kafe,1,4.8,turk_kahvesi tarihi nostaljik otantik,41.0322,28.9765
+4,Montag Coffee Roasters,Istanbul,kafe,2,4.5,kahve calisma modern ferah,40.9898,29.0265
+5,Story Coffee Roasters,Istanbul,kafe,2,4.6,sessiz kahve kahvalti calisma,40.9855,29.0278
+6,Cikolataci Ali Usta,Istanbul,kafe,2,4.7,tatli cikolata nostaljik samimi,40.9832,29.0295
+7,Petra Roasting Co.,Istanbul,kafe,3,4.6,kahve modern sanat brunch,41.0535,28.995
+8,Assk Kahve,Istanbul,kafe,4,4.5,deniz_manzarasi luks romantik kahvalti,41.0772,29.0435
+9,Minoa Books & Coffee,Istanbul,kafe,2,4.8,kitap sessiz calisma kahve,41.0425,29.004
+10,Cinaralti Cay Bahcesi,Istanbul,kafe,1,4.6,deniz_manzarasi cay tarihi nostaljik,41.052,29.0525
+11,Ciya Sofrasi,Istanbul,restoran,2,4.8,anadolu otantik yoresel aile,40.9892,29.0245
+12,Basta Street Food Bar,Istanbul,restoran,2,4.7,durum gurme hizli lezzetli,40.9875,29.028
+13,Karakoy Lokantasi,Istanbul,restoran,3,4.7,meze tarihi raki nostaljik,41.0245,28.9775
+14,Mikla Restaurant,Istanbul,restoran,4,4.9,manzara luks gurme fine_dining,41.0305,28.9745
+15,Tarihi Sultanahmet Koftecisi,Istanbul,restoran,2,4.6,kofte tarihi geleneksel aile,41.0082,28.9772
+16,Balkan Lokantasi,Istanbul,restoran,1,4.4,ev_yemegi ucuz hizli doyurucu,41.043,29.006
+17,Spago Istanbul,Istanbul,restoran,4,4.7,teras luks romantik manzara,41.0505,28.992
+18,Lucca Style,Istanbul,restoran,4,4.5,kokteyl luks populer gece_hayati,41.0785,29.0425
+19,Tarihi Ortakoy Kumpircisi,Istanbul,restoran,2,4.5,kumpir deniz sokak_lezzeti hizli,41.0475,29.027
+20,Kanaat Lokantasi,Istanbul,restoran,2,4.6,osmanli zeytinyagli tatli tarihi,41.0265,29.016
+21,Galata Kulesi,Istanbul,gezi,3,4.8,tarihi manzara fotograf panoramik,41.0256,28.9741
+22,Istiklal Caddesi,Istanbul,gezi,1,4.5,alisveris yuruyus nostaljik tramvay,41.034,28.978
+23,Sultanahmet Meydani,Istanbul,gezi,1,4.7,tarihi meydan turist fotograf,41.0065,28.976
+24,Moda Sahil Parki,Istanbul,gezi,1,4.8,deniz gunbatimi yuruyus cimler,40.981,29.0275
+25,Bebek Parki ve Sahili,Istanbul,gezi,1,4.7,bogaz yuruyus yesillik ferah,41.076,29.042
+26,Ortakoy Meydani ve Iskele,Istanbul,gezi,1,4.7,bogaz kopru fotograf turist,41.047,29.0275
+27,Salacak Sahili ve Kiz Kulesi,Istanbul,gezi,1,4.8,deniz_manzarasi gunbatimi ikonik romantik,41.021,29.004
+28,Dolmabahce Sahil Yolu,Istanbul,gezi,1,4.6,tarihi bogaz agacli yuruyus,41.039,28.998
+29,Istanbul Modern Sanat Muzesi,Istanbul,kultur,3,4.8,sanat sergi cagdas modern mimari,41.026,28.983
+30,Pera Muzesi,Istanbul,kultur,2,4.7,sanat sergi oryantalist tarihi,41.0315,28.975
+31,Salt Galata,Istanbul,kultur,1,4.9,kutuphane sessiz mimari calisma tarihi,41.0242,28.9738
+32,Ayasofya-i Kebir Camii,Istanbul,kultur,1,4.9,tarihi mimari ikonik dunya_mirasi,41.0086,28.9802
+33,Yerebatan Sarnici,Istanbul,kultur,3,4.8,tarihi gizemli atmosferik sutunlar,41.0084,28.9778
+34,Topkapi Sarayi Muzesi,Istanbul,kultur,4,4.8,osmanli tarihi saray muazzam,41.0115,28.9833
+35,Deniz Muzesi,Istanbul,kultur,2,4.6,denizcilik tarihi saltanat_kayiklari,41.0415,29.0055
+36,Sureyya Operasi,Istanbul,kultur,2,4.7,sanat opera bale tarihi mimari,40.9885,29.0298
+37,Yildiz Parki,Istanbul,doga,1,4.7,koru yesillik gol yuruyus sessiz,41.049,29.015
+38,Gulhane Parki,Istanbul,doga,1,4.7,tarihi agaclar lale bahce golge,41.013,28.9815
+39,Emirgan Korusu,Istanbul,doga,1,4.8,lale bogaz_manzarasi kosu agaclar,41.108,29.053
+40,Fethi Pasa Korusu,Istanbul,doga,1,4.6,bogaz manzarasi yesillik cay sessiz,41.0325,29.028
+41,Macka Demokrasi Parki,Istanbul,doga,1,4.6,kopek cimler spor teleferik,41.044,28.995
+42,Moda Atolyesi,Istanbul,kafe,1,3.9,kahve gurme sanat kitap aile,40.9812,29.026786
+43,Karakoy Meselik Alani,Istanbul,doga,2,4.7,kitap sanat aile calisma yesillik,41.021212,28.975591
+44,Kadikoy Sofrasi,Istanbul,restoran,2,4.2,tarihi kahve gurme,40.988381,29.023223
+45,Sultanahmet Botanık Bahcesi,Istanbul,doga,3,4.5,kahve aile kitap sanat deniz_manzarasi,41.010457,28.978838
+46,Sultanahmet Parki,Istanbul,doga,3,4.2,deniz_manzarasi kahve calisma,41.009637,28.973367
+47,Uskudar Sahil Yolu,Istanbul,gezi,2,4.1,kitap gurme kahve tatli,41.024961,29.014676
+48,Uskudar Atolyesi,Istanbul,kultur,3,4.7,calisma gurme tarihi sessiz kitap,41.029916,29.01812
+49,Nisantasi Meydani,Istanbul,gezi,1,4.0,tarihi calisma yesillik aile romantik,41.049688,28.996543
+50,Bebek Botanık Bahcesi,Istanbul,doga,1,3.9,aile tarihi calisma tatli yesillik,41.078976,29.041427
+51,Moda Sofrasi,Istanbul,restoran,4,4.7,kahve aile gurme yesillik deniz_manzarasi,40.98028,29.030444
+52,Kadikoy Atolyesi,Istanbul,kafe,2,4.8,tarihi kahve deniz_manzarasi aile tatli,40.992078,29.027007
+53,Beyoglu Parki,Istanbul,doga,2,4.0,deniz_manzarasi gurme sanat calisma tatli,41.032061,28.972851
+54,Bebek Espresso Bar,Istanbul,kafe,3,4.8,deniz_manzarasi calisma sessiz gurme,41.075593,29.038156
+55,Moda Sanat Galerisi,Istanbul,kultur,4,4.0,tatli gurme yesillik,40.986824,29.029262
+56,Bebek Millet Bahcesi,Istanbul,doga,2,4.4,kitap calisma deniz_manzarasi aile tarihi,41.080715,29.045431
+57,Moda Meyhanesi,Istanbul,restoran,3,3.9,calisma romantik kitap sessiz kahve,40.979512,29.025168
+58,Moda Kitap Kafe,Istanbul,kafe,1,4.8,gurme yesillik calisma sanat,40.981643,29.029113
+59,Uskudar Bistro,Istanbul,restoran,2,4.3,kahve gurme aile,41.025784,29.016256
+60,Kadikoy Roastery,Istanbul,kafe,2,4.0,calisma kitap gurme,40.988221,29.023714
+61,Besiktas Caddesi,Istanbul,gezi,3,4.9,sanat kahve sessiz kitap,41.040998,29.009386
+62,Karakoy Kebap & Izgara,Istanbul,restoran,4,4.1,sessiz tatli aile kitap,41.024885,28.97571
+63,Uskudar Caddesi,Istanbul,gezi,1,3.9,gurme yesillik tatli calisma deniz_manzarasi,41.027573,29.018844
+64,Bebek Atolyesi,Istanbul,kafe,4,3.9,sanat kitap tatli sessiz,41.075509,29.038401
+65,Besiktas Espresso Bar,Istanbul,kafe,2,4.3,kahve romantik calisma sessiz,41.039544,29.008895
+66,Bebek Seyir Tepesi,Istanbul,gezi,3,4.1,deniz_manzarasi aile tatli,41.074634,29.04373
+67,Sultanahmet Roastery,Istanbul,kafe,2,3.9,kahve sanat calisma,41.007666,28.980988
+68,Sultanahmet Coffee Co.,Istanbul,kafe,3,4.4,kitap deniz_manzarasi romantik sanat sessiz,41.006956,28.974262
+69,Moda Mutfagi,Istanbul,restoran,1,4.5,tatli deniz_manzarasi gurme calisma tarihi,40.979923,29.025856
+70,Beyoglu Millet Bahcesi,Istanbul,doga,3,3.8,kahve gurme aile,41.030009,28.979265
+71,Sultanahmet Sofrasi,Istanbul,restoran,1,4.8,sanat aile kitap sessiz,41.011838,28.974293
+72,Besiktas Korusu,Istanbul,doga,2,4.8,aile tatli sessiz,41.045677,29.00666
+73,Kadikoy Sahil Yolu,Istanbul,gezi,4,4.1,sanat aile romantik tatli,40.990457,29.026335
+74,Besiktas Kebap & Izgara,Istanbul,restoran,1,4.6,aile gurme calisma deniz_manzarasi,41.039198,29.007893
+75,Nisantasi Kitap Kafe,Istanbul,kafe,1,4.0,tarihi deniz_manzarasi calisma romantik,41.051766,28.990597
+76,Sultanahmet Meydani (8),Istanbul,gezi,1,4.9,sanat aile kitap tarihi sessiz,41.011735,28.975233
+77,Besiktas Botanık Bahcesi,Istanbul,doga,1,4.8,kitap tarihi aile sanat,41.039306,29.006773
+78,Karakoy Meydani,Istanbul,gezi,1,4.5,gurme kitap calisma tarihi aile,41.02667,28.974014
+79,Sultanahmet Botanık Bahcesi (9),Istanbul,doga,2,4.1,sanat deniz_manzarasi aile tarihi,41.009307,28.973997
+80,Besiktas Kebap & Izgara (6),Istanbul,restoran,2,3.8,tatli romantik gurme deniz_manzarasi aile,41.044319,29.005033
+81,Beyoglu Kebap & Izgara,Istanbul,restoran,2,4.7,yesillik kitap gurme calisma,41.034286,28.976853
+82,Besiktas Kahvecisi,Istanbul,kafe,3,4.0,kahve calisma deniz_manzarasi gurme,41.043124,29.007064
+83,Kadikoy Kebap & Izgara,Istanbul,restoran,3,4.2,aile gurme romantik calisma,40.98989,29.027148
+84,Nisantasi Meyhanesi,Istanbul,restoran,3,4.6,aile calisma tatli,41.053248,28.989044
+85,Uskudar Espresso Bar,Istanbul,kafe,2,4.8,tatli yesillik sanat romantik,41.023994,29.019787
+86,Uskudar Meselik Alani,Istanbul,doga,3,4.7,tatli yesillik gurme deniz_manzarasi,41.025414,29.020255
+87,Beyoglu Millet Bahcesi (4),Istanbul,doga,2,4.2,kitap deniz_manzarasi calisma,41.033014,28.974197
+88,Bebek Coffee Co.,Istanbul,kafe,2,4.2,kitap calisma kahve,41.074207,29.041064
+89,Uskudar Sanat Galerisi,Istanbul,kultur,1,4.2,kitap sessiz romantik aile yesillik,41.023655,29.016361
+90,Nisantasi Kutuphanesi,Istanbul,kultur,2,4.2,calisma yesillik kitap deniz_manzarasi aile,41.05398,28.993369
+91,Nisantasi Bistro,Istanbul,restoran,2,3.9,sanat sessiz aile gurme kahve,41.051739,28.990021
+92,Uskudar Lokantasi,Istanbul,restoran,3,4.7,tarihi kitap aile deniz_manzarasi,41.024081,29.015619
+93,Beyoglu Bakery & Coffee,Istanbul,kafe,3,4.8,calisma gurme kahve sessiz,41.028155,28.976315
+94,Karakoy Espresso Bar,Istanbul,kafe,3,4.0,kahve romantik calisma yesillik deniz_manzarasi,41.022219,28.97501
+95,Moda Mutfagi (8),Istanbul,restoran,4,4.0,romantik gurme aile kitap,40.979865,29.025205
+96,Karakoy Atolyesi,Istanbul,kafe,3,3.9,kahve romantik sessiz tarihi aile,41.02718,28.980802
+97,Sultanahmet Kitap Kafe,Istanbul,kafe,2,4.6,tarihi gurme yesillik tatli,41.00736,28.976922
+98,Beyoglu Meselik Alani,Istanbul,doga,2,4.3,romantik deniz_manzarasi tarihi calisma kahve,41.034197,28.975719
+99,Uskudar Meselik Alani (9),Istanbul,doga,2,4.1,tarihi tatli yesillik calisma,41.027346,29.015691
+100,Beyoglu Botanık Bahcesi,Istanbul,doga,2,4.6,kahve calisma aile,41.032446,28.976133
+101,Uskudar Muzesi,Istanbul,kultur,3,4.2,aile calisma deniz_manzarasi,41.028343,29.013744
+102,Bebek Botanık Bahcesi (8),Istanbul,doga,2,3.9,tarihi yesillik deniz_manzarasi romantik,41.076404,29.043967
+103,Karakoy Meydani (8),Istanbul,gezi,3,4.9,tatli calisma gurme yesillik deniz_manzarasi,41.026943,28.981607
+104,Bebek Botanık Bahcesi (9),Istanbul,doga,1,4.4,calisma tarihi tatli deniz_manzarasi,41.080844,29.044661
+105,Beyoglu Roastery,Istanbul,kafe,3,4.4,gurme yesillik kahve,41.032427,28.977579
+106,Uskudar Muzesi (11),Istanbul,kultur,2,4.4,yesillik kahve gurme aile,41.024726,29.020724
+107,Kadikoy Meyhanesi,Istanbul,restoran,3,4.5,calisma kahve sanat,40.991489,29.028593
+108,Karakoy Millet Bahcesi,Istanbul,doga,4,4.0,aile deniz_manzarasi romantik sessiz kahve,41.024604,28.977542
+109,Karakoy Iskelesi,Istanbul,gezi,3,4.3,kahve tatli sessiz aile yesillik,41.021649,28.975919
+110,Kadikoy Mutfagi,Istanbul,restoran,3,4.5,kahve gurme calisma deniz_manzarasi,40.990656,29.026624
+111,Karakoy Sanat Galerisi,Istanbul,kultur,3,4.5,tatli kahve sessiz kitap,41.025356,28.979181
+112,Beyoglu Sanat Galerisi,Istanbul,kultur,2,4.5,deniz_manzarasi sanat gurme yesillik,41.03175,28.974433
+113,Nisantasi Pasaji,Istanbul,gezi,3,4.0,romantik kitap sessiz deniz_manzarasi gurme,41.050003,28.989731
+114,Bebek Atolyesi (10),Istanbul,kultur,2,4.5,yesillik kahve kitap tarihi aile,41.074452,29.042683
+115,Besiktas Caddesi (8),Istanbul,gezi,2,4.2,sanat sessiz yesillik kahve,41.044549,29.004306
+116,Nisantasi Korusu,Istanbul,doga,2,4.3,sessiz calisma sanat tarihi,41.053261,28.993341
+117,Uskudar Coffee Co.,Istanbul,kafe,4,4.5,yesillik kitap kahve sessiz,41.024136,29.014048
+118,Karakoy Mutfagi,Istanbul,restoran,4,4.5,calisma kahve yesillik,41.025407,28.978418
+119,Besiktas Atolyesi,Istanbul,kultur,1,4.0,yesillik calisma kitap sanat,41.043071,29.004187
+120,Bebek Bistro,Istanbul,restoran,2,4.1,tarihi sanat deniz_manzarasi sessiz,41.073558,29.044181
+121,Uskudar Kebap & Izgara,Istanbul,restoran,4,4.1,sanat aile yesillik tarihi calisma,41.026309,29.015761
+122,Nisantasi Bistro (8),Istanbul,restoran,4,3.9,yesillik aile gurme tatli kitap,41.054204,28.989349
+123,Sultanahmet Kitap Kafe (11),Istanbul,kafe,1,4.7,sessiz tatli aile gurme,41.01076,28.973798
+124,Beyoglu Pasaji,Istanbul,gezi,2,4.8,gurme sanat aile tarihi,41.033542,28.977199
+125,Uskudar Korusu,Istanbul,doga,3,4.6,deniz_manzarasi calisma kahve aile romantik,41.02694,29.014878
+126,Moda Kultur Merkezi,Istanbul,kultur,2,4.3,tarihi sessiz deniz_manzarasi,40.984552,29.032227
+127,Karakoy Millet Bahcesi (13),Istanbul,doga,3,4.5,tatli kahve romantik,41.025527,28.98034
+128,Karakoy Kutuphanesi,Istanbul,kultur,4,4.5,yesillik deniz_manzarasi sessiz kitap,41.022145,28.977689
+129,Besiktas Bakery & Coffee,Istanbul,kafe,3,4.0,gurme aile deniz_manzarasi yesillik,41.046562,29.009901
+130,Nisantasi Sanat Galerisi,Istanbul,kultur,1,4.8,deniz_manzarasi kitap sessiz aile gurme,41.049898,28.993575
+131,Kadikoy Millet Bahcesi,Istanbul,doga,2,4.5,romantik tarihi calisma,40.991663,29.028223
+132,Besiktas Atolyesi (11),Istanbul,kafe,1,4.1,sessiz romantik tarihi tatli,41.044171,29.004471
+133,Nisantasi Meyhanesi (10),Istanbul,restoran,2,4.7,sanat kitap deniz_manzarasi tatli,41.049057,28.993315
+134,Uskudar Iskelesi,Istanbul,gezi,4,4.7,kahve tatli calisma aile,41.028963,29.019434
+135,Sultanahmet Kitap Kafe (12),Istanbul,kafe,2,4.7,yesillik tarihi deniz_manzarasi,41.007157,28.975116
+136,Sultanahmet Atolyesi,Istanbul,kafe,4,4.1,tarihi romantik calisma kahve yesillik,41.005871,28.9732
+137,Nisantasi Coffee Co.,Istanbul,kafe,1,4.3,kahve kitap calisma sanat,41.048363,28.989298
+138,Bebek Kutuphanesi,Istanbul,kultur,4,4.1,gurme kahve yesillik aile,41.078938,29.039236
+139,Sultanahmet Kebap & Izgara,Istanbul,restoran,4,4.5,kahve gurme tarihi sanat,41.007558,28.974889
+140,Kadikoy Atolyesi (9),Istanbul,kultur,1,4.2,kahve gurme calisma sessiz,40.986518,29.021977
+141,Besiktas Parki,Istanbul,doga,2,4.0,romantik calisma gurme,41.039549,29.008121
+142,Kadikoy Sahil Yolu (10),Istanbul,gezi,1,4.2,kahve gurme sessiz,40.9929,29.025322
+143,Karakoy Botanık Bahcesi,Istanbul,doga,1,3.9,kitap aile sanat,41.021126,28.976123
+144,Uskudar Pasaji,Istanbul,gezi,2,4.5,romantik sessiz sanat,41.026749,29.016616
+145,Kadikoy Bakery & Coffee,Istanbul,kafe,3,4.2,yesillik kitap kahve,40.991778,29.02441
+146,Besiktas Coffee Co.,Istanbul,kafe,2,4.5,kitap tarihi aile sanat deniz_manzarasi,41.0412,29.007065
+147,Moda Kitap Kafe (10),Istanbul,kafe,2,4.7,kitap calisma aile yesillik gurme,40.984238,29.032022
+148,Nisantasi Sanat Galerisi (12),Istanbul,kultur,1,3.9,tarihi tatli yesillik kahve,41.0505,28.9915
+149,Nisantasi Atolyesi,Istanbul,kafe,3,4.3,sessiz romantik sanat gurme tarihi,41.05391,28.995494
+150,Nisantasi Kahvecisi,Istanbul,kafe,3,4.2,sanat calisma tatli yesillik gurme,41.052803,28.991813
+151,Bebek Meydani,Istanbul,gezi,1,4.8,sanat romantik gurme kitap,41.079101,29.042593
+152,Beyoglu Coffee Co.,Istanbul,kafe,2,4.2,tarihi sessiz tatli romantik,41.030186,28.978099
+153,Besiktas Roastery,Istanbul,kafe,2,4.2,yesillik tarihi tatli gurme,41.044969,29.003721
+154,Moda Coffee Co.,Istanbul,kafe,2,4.3,kahve deniz_manzarasi yesillik aile romantik,40.980259,29.029943
+155,Karakoy Korusu,Istanbul,doga,1,4.2,gurme romantik yesillik sanat deniz_manzarasi,41.023761,28.974887
+156,Kadikoy Coffee Co.,Istanbul,kafe,1,4.3,deniz_manzarasi kitap tarihi,40.987411,29.02269
+157,Nisantasi Meyhanesi (15),Istanbul,restoran,3,3.8,sanat gurme tarihi kahve aile,41.051042,28.994629
+158,Kadikoy Sanat Galerisi,Istanbul,kultur,2,4.9,aile gurme kitap deniz_manzarasi kahve,40.991897,29.025606
+159,Besiktas Millet Bahcesi,Istanbul,doga,2,4.2,aile kahve calisma,41.045656,29.009358
+160,Moda Atolyesi (12),Istanbul,kultur,2,4.0,kahve sanat kitap,40.984966,29.026773
+161,Sultanahmet Iskelesi,Istanbul,gezi,2,4.0,calisma kahve tatli,41.011666,28.978164
+162,Besiktas Coffee Co. (16),Istanbul,kafe,3,4.5,romantik kitap yesillik tarihi,41.04661,29.007024
+163,Besiktas Sanat Galerisi,Istanbul,kultur,1,4.3,romantik sessiz tarihi sanat,41.042751,29.007051
+164,Kadikoy Kahvecisi,Istanbul,kafe,2,4.4,romantik kitap sanat,40.991654,29.021614
+165,Kadikoy Kutuphanesi,Istanbul,kultur,1,4.8,sanat tatli sessiz yesillik,40.990215,29.023572
+166,Sultanahmet Espresso Bar,Istanbul,kafe,2,4.8,yesillik kitap sanat romantik tatli,41.009169,28.973313
+167,Nisantasi Atolyesi (16),Istanbul,kultur,2,4.2,gurme tarihi kahve kitap romantik,41.053431,28.989419
+168,Beyoglu Parki (12),Istanbul,doga,1,4.6,tarihi deniz_manzarasi aile,41.030667,28.976662
+169,Moda Pasaji,Istanbul,gezi,1,4.5,gurme kitap sanat,40.982013,29.031333
+170,Bebek Meydani (14),Istanbul,gezi,1,4.0,tarihi yesillik calisma,41.075901,29.039442
+171,Moda Meydani,Istanbul,gezi,1,4.0,sanat sessiz tarihi tatli aile,40.983062,29.029318
+172,Besiktas Sanat Galerisi (18),Istanbul,kultur,3,4.7,yesillik romantik deniz_manzarasi,41.042287,29.007411
+173,Karakoy Parki,Istanbul,doga,2,4.1,calisma tarihi romantik yesillik,41.023476,28.980469
+174,Nisantasi Meselik Alani,Istanbul,doga,1,4.3,romantik tatli deniz_manzarasi,41.051349,28.990296
+175,Sultanahmet Korusu,Istanbul,doga,2,4.8,deniz_manzarasi kahve tatli,41.009691,28.977127
+176,Besiktas Sanat Galerisi (19),Istanbul,kultur,2,4.2,tarihi sessiz aile gurme,41.046571,29.003776
+177,Nisantasi Kahvecisi (18),Istanbul,kafe,3,4.0,kitap gurme tarihi,41.049796,28.991549
+178,Beyoglu Kultur Merkezi,Istanbul,kultur,3,4.4,sessiz kahve kitap deniz_manzarasi calisma,41.034071,28.975753
+179,Bebek Sanat Galerisi,Istanbul,kultur,2,4.5,sessiz calisma aile,41.079209,29.039901
+180,Moda Kitap Kafe (15),Istanbul,kafe,1,4.0,gurme sanat romantik,40.986241,29.029774
+181,Nisantasi Espresso Bar,Istanbul,kafe,2,4.2,gurme kitap kahve,41.050823,28.993565
+182,Bebek Meselik Alani,Istanbul,doga,2,4.9,aile yesillik sessiz,41.079291,29.042061
+183,Beyoglu Kahvecisi,Istanbul,kafe,1,4.4,gurme kitap kahve tarihi tatli,41.034308,28.974758
+184,Besiktas Muzesi,Istanbul,kultur,2,3.8,kitap yesillik sessiz,41.044054,29.008492
+185,Karakoy Kahvecisi,Istanbul,kafe,2,4.7,yesillik deniz_manzarasi sessiz calisma gurme,41.028467,28.978123
+186,Sultanahmet Meydani (18),Istanbul,gezi,4,4.3,kitap yesillik aile tarihi,41.010395,28.976496
+187,Uskudar Pasaji (17),Istanbul,gezi,2,4.2,kahve aile romantik tatli,41.024134,29.013661
+188,Moda Iskelesi,Istanbul,gezi,1,4.8,aile tatli yesillik tarihi romantik,40.981365,29.028567
+189,Sultanahmet Millet Bahcesi,Istanbul,doga,2,4.7,kahve gurme aile,41.006196,28.98084
+190,Besiktas Coffee Co. (21),Istanbul,kafe,3,4.2,sessiz tatli kahve calisma,41.045789,29.007425
+191,Nisantasi Korusu (20),Istanbul,doga,2,4.2,tarihi yesillik kahve tatli,41.052841,28.994432
+192,Beyoglu Lokantasi,Istanbul,restoran,3,4.0,aile sanat kahve deniz_manzarasi gurme,41.028207,28.973488
+193,Beyoglu Kultur Merkezi (16),Istanbul,kultur,3,4.6,tatli yesillik kahve tarihi,41.028981,28.978823
+194,Bebek Botanık Bahcesi (17),Istanbul,doga,1,4.0,kitap gurme tatli tarihi calisma,41.080131,29.044811
+195,Besiktas Bistro,Istanbul,restoran,1,4.2,tarihi yesillik sanat tatli kahve,41.042952,29.004887
+196,Uskudar Millet Bahcesi,Istanbul,doga,2,4.5,tatli tarihi kahve,41.028153,29.019587
+197,Sultanahmet Bistro,Istanbul,restoran,4,3.9,tatli aile sanat,41.010242,28.978118
+198,Moda Parki,Istanbul,doga,2,4.5,calisma tarihi sanat deniz_manzarasi kahve,40.981433,29.026296
+199,Bebek Sahil Yolu,Istanbul,gezi,2,4.4,sanat gurme tatli,41.078,29.042915
+200,Besiktas Meselik Alani,Istanbul,doga,4,4.6,sessiz kahve kitap,41.041701,29.009391
+201,Beyoglu Bistro,Istanbul,restoran,2,4.9,yesillik gurme sanat,41.032577,28.976945
+202,Uskudar Bistro (19),Istanbul,restoran,2,4.3,kahve sessiz tatli yesillik,41.028459,29.016249
+203,Sultanahmet Parki (21),Istanbul,doga,2,4.3,tarihi aile tatli kitap kahve,41.006501,28.978747
+204,Beyoglu Kultur Merkezi (18),Istanbul,kultur,3,4.8,romantik aile calisma tatli,41.029127,28.972405
+205,Sultanahmet Bistro (22),Istanbul,restoran,1,4.2,yesillik deniz_manzarasi kitap sessiz,41.005275,28.980968
+206,Uskudar Meyhanesi,Istanbul,restoran,2,4.7,yesillik romantik kitap deniz_manzarasi,41.026667,29.013389
+207,Nisantasi Mutfagi,Istanbul,restoran,1,4.4,sessiz aile kitap sanat,41.05382,28.995111
+208,Moda Kutuphanesi,Istanbul,kultur,2,4.7,gurme romantik kahve tatli kitap,40.982603,29.029399
+209,Sultanahmet Botanık Bahcesi (23),Istanbul,doga,1,4.2,aile sanat sessiz romantik gurme,41.01004,28.974592
+210,Uskudar Millet Bahcesi (21),Istanbul,doga,1,4.9,tarihi romantik kitap,41.023192,29.020145
+211,Beyoglu Botanık Bahcesi (19),Istanbul,doga,3,4.2,kitap romantik deniz_manzarasi yesillik,41.032059,28.976078
+212,Moda Kutuphanesi (19),Istanbul,kultur,4,4.7,gurme sessiz romantik yesillik deniz_manzarasi,40.981461,29.03219
+213,Karakoy Espresso Bar (19),Istanbul,kafe,2,4.6,romantik aile tatli calisma sessiz,41.024844,28.978194
+214,Karakoy Bakery & Coffee,Istanbul,kafe,3,4.4,calisma aile sanat yesillik sessiz,41.02351,28.975211
+215,Bebek Iskelesi,Istanbul,gezi,2,4.5,yesillik sanat tarihi,41.076827,29.041015
+216,Beyoglu Millet Bahcesi (20),Istanbul,doga,3,4.3,deniz_manzarasi calisma kitap romantik gurme,41.029538,28.973972
+217,Uskudar Pasaji (22),Istanbul,gezi,2,4.9,deniz_manzarasi kahve romantik sanat,41.02947,29.019363
+218,Sultanahmet Mutfagi,Istanbul,restoran,3,4.0,tarihi yesillik deniz_manzarasi,41.004337,28.980643
+219,Bebek Pasaji,Istanbul,gezi,3,4.4,kitap romantik calisma gurme sessiz,41.078569,29.039098
+220,Karakoy Roastery,Istanbul,kafe,4,4.9,gurme tatli sessiz,41.024306,28.979739
+221,Besiktas Muzesi (24),Istanbul,kultur,3,4.1,tarihi deniz_manzarasi sessiz kahve,41.04282,29.003596
+222,Kadikoy Kebap & Izgara (16),Istanbul,restoran,4,4.9,aile yesillik tatli,40.992058,29.022406
+223,Beyoglu Roastery (21),Istanbul,kafe,2,4.8,deniz_manzarasi yesillik sanat romantik,41.030387,28.976822
+224,Bebek Atolyesi (21),Istanbul,kultur,3,3.8,kitap yesillik deniz_manzarasi,41.074542,29.038901
+225,Sultanahmet Pasaji,Istanbul,gezi,1,4.5,gurme aile kitap sanat tarihi,41.009395,28.974545
+226,Besiktas Kebap & Izgara (25),Istanbul,restoran,4,4.1,aile calisma yesillik deniz_manzarasi,41.041589,29.003984
+227,Kadikoy Iskelesi,Istanbul,gezi,3,4.8,kahve yesillik deniz_manzarasi tatli aile,40.987876,29.02289
+228,Beyoglu Atolyesi,Istanbul,kafe,2,4.9,calisma kitap tatli yesillik romantik,41.035329,28.97436
+229,Sultanahmet Kutuphanesi,Istanbul,kultur,2,4.2,calisma kitap romantik kahve yesillik,41.011302,28.979059
+230,Moda Kitap Kafe (20),Istanbul,kafe,1,4.0,sanat tatli gurme tarihi yesillik,40.983381,29.029044
+231,Uskudar Espresso Bar (23),Istanbul,kafe,2,4.4,sanat aile yesillik,41.025564,29.013445
+232,Beyoglu Bakery & Coffee (23),Istanbul,kafe,2,4.6,romantik kahve sessiz,41.030036,28.972024
+233,Bebek Roastery,Istanbul,kafe,2,4.8,aile tatli gurme kitap,41.080889,29.041777
+234,Uskudar Muzesi (24),Istanbul,kultur,4,4.2,tatli gurme tarihi kahve kitap,41.022642,29.020713
+235,Besiktas Bistro (26),Istanbul,restoran,2,4.7,yesillik gurme sanat aile,41.039028,29.002182
+236,Karakoy Atolyesi (22),Istanbul,kultur,1,3.9,kahve sessiz aile gurme calisma,41.022241,28.975508
+237,Kadikoy Kutuphanesi (18),Istanbul,kultur,2,4.4,kitap sessiz aile,40.990376,29.027978
+238,Kadikoy Trattoria,Istanbul,restoran,2,4.0,romantik tarihi kitap gurme calisma,40.992948,29.022873
+239,Bebek Kebap & Izgara,Istanbul,restoran,1,4.2,kitap tatli aile sanat yesillik,41.075404,29.038488
+240,Nisantasi Botanık Bahcesi,Istanbul,doga,1,4.0,aile tatli sanat yesillik,41.05357,28.992266
+241,Besiktas Sanat Galerisi (27),Istanbul,kultur,1,4.5,sanat tatli aile calisma deniz_manzarasi,41.043499,29.009742
+242,Uskudar Meydani,Istanbul,gezi,2,4.8,deniz_manzarasi aile romantik,41.026285,29.019635
+243,Karakoy Meselik Alani (23),Istanbul,doga,4,3.9,deniz_manzarasi sessiz calisma romantik,41.022736,28.975671
+244,Uskudar Sofrasi,Istanbul,restoran,2,4.4,sanat tarihi deniz_manzarasi,41.026835,29.014636
+245,Sultanahmet Seyir Tepesi,Istanbul,gezi,2,4.3,kahve yesillik tarihi calisma,41.006877,28.980062
+246,Karakoy Lokantasi (24),Istanbul,restoran,2,4.2,kitap aile deniz_manzarasi tatli calisma,41.023086,28.981478
+247,Karakoy Kutuphanesi (25),Istanbul,kultur,1,4.7,yesillik gurme kitap romantik,41.026237,28.979479
+248,Besiktas Sofrasi,Istanbul,restoran,4,4.5,gurme sessiz sanat kitap kahve,41.043372,29.003472
+249,Kadikoy Kultur Merkezi,Istanbul,kultur,2,4.5,tatli sessiz calisma sanat yesillik,40.99174,29.022851
+250,Uskudar Sanat Galerisi (27),Istanbul,kultur,2,4.1,sessiz sanat deniz_manzarasi,41.022053,29.017413
+251,Bebek Kultur Merkezi,Istanbul,kultur,2,4.7,calisma kitap romantik,41.073856,29.038771
+252,Beyoglu Sanat Galerisi (24),Istanbul,kultur,1,4.2,calisma kitap deniz_manzarasi kahve sessiz,41.030984,28.975248
+253,Bebek Sanat Galerisi (25),Istanbul,kultur,2,4.7,yesillik aile tarihi,41.078094,29.043623
+254,Moda Korusu,Istanbul,doga,3,4.1,romantik yesillik deniz_manzarasi sessiz kahve,40.980838,29.03221
+255,Bebek Korusu,Istanbul,doga,3,4.6,calisma romantik tatli,41.074435,29.044803
+256,Nisantasi Kahvecisi (23),Istanbul,kafe,3,4.0,gurme sanat tarihi aile,41.0493,28.990924
+257,Moda Botanık Bahcesi,Istanbul,doga,4,4.2,tarihi romantik gurme,40.97943,29.028497
+258,Sultanahmet Atolyesi (28),Istanbul,kafe,2,4.5,calisma tarihi sanat aile,41.006187,28.980941
+259,Nisantasi Kitap Kafe (24),Istanbul,kafe,3,4.5,kahve kitap deniz_manzarasi tatli aile,41.052949,28.995384
+260,Nisantasi Seyir Tepesi,Istanbul,gezi,1,4.0,yesillik tarihi deniz_manzarasi kahve,41.048852,28.989042
+261,Uskudar Meselik Alani (28),Istanbul,doga,2,4.7,tarihi sanat kahve,41.0261,29.013826
+262,Nisantasi Kahvecisi (26),Istanbul,kafe,3,4.0,sanat calisma romantik kitap tatli,41.05131,28.995233
+263,Beyoglu Seyir Tepesi,Istanbul,gezi,3,4.2,deniz_manzarasi aile kitap yesillik,41.031945,28.972506
+264,Karakoy Kutuphanesi (26),Istanbul,kultur,2,4.5,deniz_manzarasi sessiz aile,41.025933,28.977663
+265,Sultanahmet Atolyesi (29),Istanbul,kultur,2,4.0,romantik tatli deniz_manzarasi tarihi calisma,41.007445,28.979588
+266,Nisantasi Seyir Tepesi (27),Istanbul,gezi,2,4.8,calisma tarihi aile deniz_manzarasi romantik,41.053879,28.994063
+267,Karakoy Meselik Alani (27),Istanbul,doga,2,4.1,kitap yesillik calisma,41.022439,28.980141
+268,Moda Muzesi,Istanbul,kultur,1,4.9,gurme tatli aile romantik,40.980113,29.027423
+269,Uskudar Millet Bahcesi (29),Istanbul,doga,1,4.1,aile sanat sessiz tarihi kahve,41.026275,29.020388
+270,Sultanahmet Sofrasi (30),Istanbul,restoran,1,3.9,gurme kitap aile tarihi romantik,41.008901,28.977506
+271,Karakoy Meselik Alani (28),Istanbul,doga,2,4.5,yesillik tarihi aile,41.025464,28.979501
+272,Bebek Mutfagi,Istanbul,restoran,2,4.2,aile kahve gurme tatli,41.080982,29.041862
+273,Karakoy Millet Bahcesi (29),Istanbul,doga,1,4.6,kitap yesillik tarihi kahve deniz_manzarasi,41.023786,28.974781
+274,Kadikoy Iskelesi (21),Istanbul,gezi,2,4.3,calisma sanat tatli gurme romantik,40.985875,29.0274
+275,Uskudar Bistro (30),Istanbul,restoran,2,4.3,gurme aile kitap sessiz calisma,41.02524,29.014476
+276,Kadikoy Meyhanesi (22),Istanbul,restoran,1,4.2,romantik kahve sanat,40.987227,29.02663
+277,Uskudar Kahvecisi,Istanbul,kafe,2,4.7,tarihi romantik aile gurme kahve,41.027366,29.016916
+278,Besiktas Pasaji,Istanbul,gezi,1,4.6,kahve calisma deniz_manzarasi kitap,41.043721,29.007377
+279,Bebek Muzesi,Istanbul,kultur,2,4.3,tatli yesillik sanat kitap,41.077771,29.042598
+280,Besiktas Mutfagi,Istanbul,restoran,3,4.9,sessiz yesillik tatli calisma,41.045736,29.006955
+281,Bebek Muzesi (29),Istanbul,kultur,3,4.0,yesillik tatli kahve sessiz,41.078478,29.041325
+282,Kadikoy Sahil Yolu (23),Istanbul,gezi,1,3.9,romantik yesillik sanat kitap,40.989301,29.022346
+283,Bebek Pasaji (30),Istanbul,gezi,3,4.5,yesillik sanat calisma aile kahve,41.079581,29.038333
+284,Karakoy Meydani (30),Istanbul,gezi,1,4.6,yesillik kahve calisma,41.024598,28.976789
+285,Sultanahmet Millet Bahcesi (31),Istanbul,doga,2,4.1,calisma sessiz romantik,41.005328,28.974114
+286,Bebek Mutfagi (31),Istanbul,restoran,4,4.9,deniz_manzarasi sanat kahve tatli aile,41.080832,29.040341
+287,Besiktas Meyhanesi,Istanbul,restoran,1,4.5,gurme aile yesillik,41.04017,29.004577
+288,Nisantasi Muzesi,Istanbul,kultur,3,4.8,aile sanat deniz_manzarasi,41.048604,28.995357
+289,Uskudar Atolyesi (32),Istanbul,kultur,1,4.3,kahve yesillik tarihi kitap aile,41.026656,29.019951
+290,Karakoy Atolyesi (31),Istanbul,kultur,3,4.6,romantik tatli kitap yesillik tarihi,41.023583,28.976269
+291,Kadikoy Atolyesi (24),Istanbul,kafe,1,4.9,tatli yesillik gurme,40.991271,29.024677
+292,Karakoy Sofrasi,Istanbul,restoran,1,4.5,kahve gurme tarihi deniz_manzarasi,41.023415,28.980995
+293,Besiktas Bakery & Coffee (32),Istanbul,kafe,3,3.8,aile gurme kahve,41.044005,29.007808
+294,Uskudar Coffee Co. (33),Istanbul,kafe,4,4.3,sessiz kitap tarihi kahve,41.026749,29.017156
+295,Besiktas Sanat Galerisi (33),Istanbul,kultur,3,4.0,kahve tarihi gurme,41.040832,29.002715
+296,Besiktas Lokantasi,Istanbul,restoran,4,4.5,tatli yesillik tarihi calisma kitap,41.043244,29.002068
+297,Uskudar Lokantasi (34),Istanbul,restoran,4,4.1,romantik aile tarihi,41.029173,29.01412
+298,Besiktas Mutfagi (35),Istanbul,restoran,1,4.5,romantik kitap deniz_manzarasi sessiz gurme,41.044157,29.003985
+299,Karakoy Atolyesi (33),Istanbul,kultur,1,4.5,yesillik aile kahve,41.026169,28.98027
+300,Moda Korusu (24),Istanbul,doga,2,4.6,aile romantik kitap,40.986895,29.032471

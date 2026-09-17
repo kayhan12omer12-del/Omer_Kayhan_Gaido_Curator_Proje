@@ -1,0 +1,6 @@
+id,ad,sehir,kategori,fiyat_seviyesi,puan,etiketler,enlem,boylam,metadata,mesafe_km,benzerlik,bilesik_skor
+201,Beyoglu Bistro,Istanbul,restoran,2,4.9,yesillik gurme sanat,41.032577,28.976945,restoran yesillik gurme sanat,0.94,0.0,0.957
+228,Beyoglu Atolyesi,Istanbul,kafe,2,4.9,calisma kitap tatli yesillik romantik,41.035329,28.97436,kafe calisma kitap tatli yesillik romantik,1.02,0.0,0.954
+103,Karakoy Meydani (8),Istanbul,gezi,3,4.9,tatli calisma gurme yesillik deniz_manzarasi,41.026943,28.981607,gezi tatli calisma gurme yesillik deniz_manzarasi,1.23,0.0,0.948
+14,Mikla Restaurant,Istanbul,restoran,4,4.9,manzara luks gurme fine_dining,41.0305,28.9745,restoran manzara luks gurme fine_dining,1.25,0.0,0.947
+124,Beyoglu Pasaji,Istanbul,gezi,2,4.8,gurme sanat aile tarihi,41.033542,28.977199,gezi gurme sanat aile tarihi,0.87,0.0,0.945

@@ -1,0 +1,6 @@
+id,ad,sehir,kategori,fiyat_seviyesi,puan,etiketler,enlem,boylam,metadata,mesafe_km,benzerlik,bilesik_skor
+232,Beyoglu Bakery & Coffee (23),Istanbul,kafe,2,4.6,romantik kahve sessiz,41.030036,28.972024,kafe romantik kahve sessiz,1.45,0.667,0.795
+9,Minoa Books & Coffee,Istanbul,kafe,2,4.8,kitap sessiz calisma kahve,41.0425,29.004,kafe kitap sessiz calisma kahve,1.63,0.5,0.718
+2,Coffee Sapiens,Istanbul,kafe,2,4.7,kahve sessiz calisma nitelikli,41.0252,28.9782,kafe kahve sessiz calisma nitelikli,1.52,0.5,0.716
+1,Karabatak Karakoy,Istanbul,kafe,2,4.6,sessiz kahve tatli calisma,41.0258,28.9795,kafe sessiz kahve tatli calisma,1.41,0.5,0.713
+65,Besiktas Espresso Bar,Istanbul,kafe,2,4.3,kahve romantik calisma sessiz,41.039544,29.008895,kafe kahve romantik calisma sessiz,1.96,0.5,0.678
