@@ -42,3 +42,10 @@ python main.py
 # Streamlit interaktif web arayüzünü açmak için:
 streamlit run app.py
 ```
+## 📊 Veri Analizi ve Görseller
+
+![Kategori Dağılımı](eda_kategori_dagilimi.png)
+
+![Fiyat ve Puan Dağılımı](eda_fiyat_puan.png)
+
+![Puan Dağılımı](eda_puan_dagilimi.png)
