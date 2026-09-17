@@ -27,12 +27,11 @@ Sistem 3 temel aşamalı bir karar mimarisiyle çalışır:
 
 ### 1. Sanal Ortamı Oluşturun ve Aktifleştirin
 ```powershell
-# Sanal ortamı oluşturun
 python -m venv venv
-
-# Sanal ortamı aktifleştirin
 .\venv\Scripts\Activate.ps1
+```
 pip install -r requirements.txt
+
 # Konsol tabanlı test motorunu çalıştırmak için:
 python main.py
 
